@@ -1,0 +1,15 @@
+QFrame{
+    border-width: 1px;
+    border-style: solid;
+    border-color: dimgray;
+    border-radius: 5px;
+}
+
+QLabel {
+    font: normal;
+    font-weight: 400;
+    border-style: none;
+    font-size: 10pt;
+}
+
+
